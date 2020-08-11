@@ -1,0 +1,20 @@
+.panel-about{
+    text-align: center;
+    padding: 16px 0 7px 0;
+}
+
+.panel-about .title{
+    font-size: 40px;
+    padding: 8px 0 8px 0;
+}
+
+.panel-about .subtitle{
+    font-size: 24px;
+    padding: 8px 0 16px 0;
+}
+
+.panel-about .about-description{
+    font-size: 18px;
+    line-height: 35px;
+}
+
